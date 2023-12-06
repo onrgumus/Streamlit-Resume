@@ -25,7 +25,8 @@ EMAIL = "gumus.onr@gmail.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/onur-gumus/",
     "GitHub": "https://github.com/onrgumus",
-    "Medium": "https://medium.com/@gumus.onr"
+    "Medium": "https://medium.com/@gumus.onr",
+    "Kaggle": "https://www.kaggle.com/onurgm"
 
 }
 PROJECTS = {
@@ -69,7 +70,7 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 
 # --- EXPERIENCE & QUALIFICATIONS ---
 st.write('\n')
-st.subheader("Experience & Qulifications")
+st.subheader("Experience & Qualifications")
 st.write(
 """
 With over four years of invaluable experience spanning FMCG, Banking, and Manufacturing sectors, Onur consistently provides profound insights and innovative solutions. His strengths lie in data cleansing, transformation, visualization, and the application of advanced statistical methodologies to derive meaningful and actionable conclusions from data."""
@@ -98,7 +99,7 @@ st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, Alteryx
 - 📊 Data Visulization: Power Bi, MS Excel, Plotly,Tableau, Looker
-- 📚 Modeling: Logistic regression, linear regression, decition trees
+- 📚 Modeling: Logistic regression, linear regression, decision trees
 - 🗄️ Databases: Postgres, MongoDB, MySQL,SSIS, SQlite
 """
 )
@@ -131,7 +132,7 @@ st.write(
 - ► Design, manufacturing and lifecycle management
 - ► Led technical enhancements and process improvements, ensuring seamless system upgrades and optimizations while achieving 100% completion in project regression testing.
 - ► Drove projects aligned with our annual Industry 4.0 and Digital Transformation goals, enhancing Logistics Center efficiency, productivity, and quality, including IT solutions, layout planning, and system integrations.
-- ►Designed automated Business Intelligence solutions for recurrent reporting (daily/weekly/monthly).
+- ► Designed automated Business Intelligence solutions for recurrent reporting (daily/weekly/monthly).
 """
 )
 
@@ -157,9 +158,9 @@ st.write(
     """
 - ► Design, manufacturing and lifecycle management
 - ► To use the TDS (Technical Document System) and old product data, updating it to the new PLM system.
-Solving problems between JDE and PLM systems.
+        Solving problems between JDE and PLM systems.
 - ► To support in taking the unstructured data and re-qualifying it to specifications.
-To ensure documentation and data sources are formatted correctly.
+        To ensure documentation and data sources are formatted correctly.
 - ► To support the PLM deployments to various sites and facilities by helping business teams prepare, cleanse and verify data for migration from source systems into the new PLM (OPTIVA) platform.
 - ► I work hands on conducting data cleansing activities, working with business teams and their data.
 """
