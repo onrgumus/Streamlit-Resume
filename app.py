@@ -17,9 +17,7 @@ PAGE_TITLE = "Digital CV | Onur Gumus"
 PAGE_ICON = ":wave:"
 NAME = "Onur Gumus"
 DESCRIPTION = """
-As a Data Analyst, 
-I aid enterprises by leveraging data analysis to provide insights that support informed, 
-data-driven decision-making processes.
+Senior Implementation Engineer | Senior Product Owner |Customer Experience, Loyalty & Data-Driven Digital Transformation
 """
 EMAIL = "gumus.onr@gmail.com"
 SOCIAL_MEDIA = {
