@@ -73,10 +73,13 @@ st.write('\n')
 st.subheader("Experience & Qualifications")
 st.write(
 """
-With over four years of invaluable experience spanning FMCG, Banking, and Manufacturing sectors, Onur consistently provides profound insights and innovative solutions. His strengths lie in data cleansing, transformation, visualization, and the application of advanced statistical methodologies to derive meaningful and actionable conclusions from data."""
-    """
+Onur Gümüş is a Senior Implementation Engineer at Amadeus, with a strong background in IT project delivery, digital transformation, and data-driven solution development. He has over six years of experience across consulting, FMCG, and technology-driven industries, including roles at PwC, P&G, and Reckitt, where he worked on data analytics, business intelligence, and digital transformation initiatives.
 
-His proficiency spans a range of specialties:
+At Amadeus, he contributes to the delivery of global airline technology solutions, focusing on customer experience and loyalty transformation projects. He works closely with cross-functional teams to ensure successful implementation of enterprise solutions and digital platforms. He has experience in end-to-end project delivery, including system integrations, data-driven reporting, and process optimization, supporting business stakeholders in improving operational efficiency and customer engagement.
+
+His expertise includes digital transformation, business intelligence, data analytics, and enterprise IT project execution, with a strong focus on delivering scalable and impactful business solutions."""
+
+"""His proficiency spans a range of specialties:
 
 - ✔️ Industry 4.0 and Data Scientist specializing in Digital Transformation (Python, SQL, Power BI, Alteryx)
 - ✔️ Expert in Data Analysis and Visualization
@@ -84,7 +87,7 @@ His proficiency spans a range of specialties:
 - ✔️ Supply Chain Management
 - ✔️ Business Analyst
 - ✔️ Skilled in SAP S/4HANA, R/3, PLM Business Analyst for PLM system Implementation
-- ✔️ 4 Years expereince extracting actionable insights from data
+- ✔️ 7 Years expereince extracting actionable insights from data
 - ✔️ Strong hands on experience and knowledge in Python and Alteryx, Sql ,Power BI
 - ✔️ Good understanding of statistical principles and their respective applications
 - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
@@ -112,7 +115,7 @@ st.write("---")
 
 # --- JOB 1
 st.write("🚧", "**Data Analyst | PWC**")
-st.write("04/2023 - Present")
+st.write("04/2023 - 04/2024")
 st.write(
     """
 - ► Building interactive dashboards by connecting various data sources,
